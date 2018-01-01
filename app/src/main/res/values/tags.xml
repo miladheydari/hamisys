@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view_tag">view_tag</string>
+    <string name="value_tag">value_tag</string>
+    <string name="default_value_tag">default_value_tag</string>
+</resources>

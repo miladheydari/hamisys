@@ -1,0 +1,400 @@
+{
+  "data": [
+    {
+      "answer_type": "RADIO",
+      "answers": [
+        {
+          "answer_type": "TEXT",
+          "answers": [
+            {
+              "id": "100"
+            }
+          ],
+          "id": "1",
+          "value": "a"
+        },
+        {
+          "id": "2",
+          "value": "b"
+        },
+        {
+          "id": "3",
+          "value": "c"
+        },
+        {
+          "id": "4",
+          "value": "d"
+        }
+      ],
+      "id": "2",
+      "title": "رادیو گروپ و گرفتن متن وقتی گزینه اول انتخاب شود."
+    },
+    {
+      "answer_type": "CHECK",
+      "answers": [
+        {
+          "id": "5",
+          "value": "a"
+        },
+        {
+          "id": "6",
+          "value": "b"
+        },
+        {
+          "id": "7",
+          "value": "c"
+        },
+        {
+          "id": "8",
+          "value": "d"
+        }
+      ],
+      "id": "3",
+      "title": "همه چک لیست"
+    },
+    {
+      "answer_type": "CHECK",
+      "answers": [
+        {
+          "answer_type": "TEXT",
+          "answers": [
+            {
+              "id": "101"
+            }
+          ],
+          "id": "9",
+          "value": "1"
+        },
+        {
+          "answer_type": "TEXT",
+          "answers": [
+            {
+              "id": "102"
+            }
+          ],
+          "id": "10",
+          "value": "2"
+        },
+        {
+          "id": "11",
+          "value": "3"
+        },
+        {
+          "id": "12",
+          "value": "4"
+        }
+      ],
+      "id": "4",
+      "title": "همه چک لیست و در گزینه اول و دمو چک لیست از کاربر متنی خواسته می شود"
+    },
+    {
+      "answer_type": "TEXT",
+      "answers": [
+        {
+          "id": "13"
+        }
+      ],
+      "id": "5",
+      "title": "گرفتن متن ساده"
+    },
+    {
+      "answer_type": "CHECK",
+      "answers": [
+        {
+          "id": "14",
+          "value": "1"
+        },
+        {
+          "id": "15",
+          "value": "2"
+        },
+        {
+          "answer_type": "CHECK",
+          "answers": [
+            {
+              "id": "103",
+              "value": "a"
+            },
+            {
+              "id": "104",
+              "value": "b"
+            },
+            {
+              "id": "105",
+              "value": "c"
+            },
+            {
+              "id": "106",
+              "value": "d"
+            }
+          ],
+          "id": "16",
+          "value": "3"
+        },
+        {
+          "answer_type": "RADIO",
+          "answers": [
+            {
+              "id": "107",
+              "value": "one"
+            },
+            {
+              "id": "108",
+              "value": "two"
+            },
+            {
+              "id": "109",
+              "value": "three"
+            },
+            {
+              "id": "110",
+              "value": "four"
+            }
+          ],
+          "id": "17",
+          "value": "4"
+        }
+      ],
+      "id": "5",
+      "title": "همه چک لیست و در گزینه سوم و چهارم چک لیست از کاربر یک چک لیست و در دیگیری یک رادیو گروپ خواسته می شود."
+    },
+    {
+      "answer_type": "RADIO",
+      "answers": [
+        {
+          "answer_type": "TEXT",
+          "answers": [
+            {
+              "id": "111"
+            }
+          ],
+          "id": "18",
+          "value": "a"
+        },
+        {
+          "id": "19",
+          "value": "b"
+        },
+        {
+          "id": "20",
+          "value": "c"
+        },
+        {
+          "answer_type": "CHECK",
+          "answers": [
+            {
+              "value": "first",
+              "id": "112"
+            },
+            {
+              "value": "second",
+              "id": "113"
+            }
+          ],
+          "id": "21",
+          "value": "d"
+        }
+      ],
+      "id": "6",
+      "title": "رادیو گروپ و در گزینه اول متن و در گزینه آخر چک لیست وجود دارد"
+    },
+    {
+      "answer_type": "RADIO",
+      "answers": [
+        {
+          "answer_type": "TEXT",
+          "answers": [
+            {
+              "id": "114"
+            }
+          ],
+          "id": "22",
+          "value": "a"
+        },
+        {
+          "id": "23",
+          "value": "b"
+        },
+        {
+          "id": "24",
+          "value": "c"
+        },
+        {
+          "id": "25",
+          "value": "d"
+        }
+      ],
+      "id": "7",
+      "title": "رادیو گروپ و گرفتن متن وقتی گزینه اول انتخاب شود."
+    },
+    {
+      "answer_type": "CHECK",
+      "answers": [
+        {
+          "id": "26",
+          "value": "a"
+        },
+        {
+          "id": "27",
+          "value": "b"
+        },
+        {
+          "id": "28",
+          "value": "c"
+        },
+        {
+          "id": "29",
+          "value": "d"
+        }
+      ],
+      "id": "8",
+      "title": "همه چک لیست"
+    },
+    {
+      "answer_type": "CHECK",
+      "answers": [
+        {
+          "answer_type": "TEXT",
+          "answers": [
+            {
+              "id": "115"
+            }
+          ],
+          "id": "30",
+          "value": "1"
+        },
+        {
+          "answer_type": "TEXT",
+          "answers": [
+            {
+              "id": "116"
+            }
+          ],
+          "id": "31",
+          "value": "2"
+        },
+        {
+          "id": "32",
+          "value": "3"
+        },
+        {
+          "id": "33",
+          "value": "4"
+        }
+      ],
+      "id": "9",
+      "title": "همه چک لیست و در گزینه اول و دمو چک لیست از کاربر متنی خواسته می شود"
+    },
+    {
+      "answer_type": "TEXT",
+      "answers": [
+        {
+          "id": "34"
+        }
+      ],
+      "id": "10",
+      "title": "گرفتن متن ساده"
+    },
+    {
+      "answer_type": "CHECK",
+      "answers": [
+        {
+          "id": "35",
+          "value": "1"
+        },
+        {
+          "id": "36",
+          "value": "2"
+        },
+        {
+          "answer_type": "CHECK",
+          "answers": [
+            {
+              "id": "117",
+              "value": "a"
+            },
+            {
+              "id": "118",
+              "value": "b"
+            },
+            {
+              "id": "119",
+              "value": "c"
+            },
+            {
+              "id": "120",
+              "value": "d"
+            }
+          ],
+          "id": "37",
+          "value": "3"
+        },
+        {
+          "answer_type": "RADIO",
+          "answers": [
+            {
+              "id": "121",
+              "value": "one"
+            },
+            {
+              "id": "122",
+              "value": "two"
+            },
+            {
+              "id": "123",
+              "value": "three"
+            },
+            {
+              "id": "124",
+              "value": "four"
+            }
+          ],
+          "id": "38",
+          "value": "4"
+        }
+      ],
+      "id": "11",
+      "title": "همه چک لیست و در گزینه سوم و چهارم چک لیست از کاربر یک چک لیست و در دیگیری یک رادیو گروپ خواسته می شود."
+    },
+    {
+      "answer_type": "RADIO",
+      "answers": [
+        {
+          "answer_type": "TEXT",
+          "answers": [
+            {
+              "id": "125"
+            }
+          ],
+          "id": "39",
+          "value": "a"
+        },
+        {
+          "id": "40",
+          "value": "b"
+        },
+        {
+          "id": "41",
+          "value": "c"
+        },
+        {
+          "answer_type": "CHECK",
+          "answers": [
+            {
+              "value": "first",
+              "id": "125"
+            },
+            {
+              "value": "second",
+              "id": "126"
+            }
+          ],
+          "id": "42",
+          "value": "d"
+        }
+      ],
+      "id": "12",
+      "title": "رادیو گروپ و در گزینه اول متن و در گزینه آخر چک لیست وجود دارد"
+    }
+  ]
+}
